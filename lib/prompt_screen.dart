@@ -105,7 +105,7 @@ class _PromptScreenState extends State<PromptScreen> {
      if(response.statusCode == 200){
       final data = json.decode(response.body);
       final choices = data['choices'] as List;
-      final playlistString = choices.isEmpty ? choices[0]['messages']['content'] as String : '';
+      final playlistString = choices.isNotEmpty ? choices[0]['message']['content'] as String : '';
       setState(() {
         // Split the playlist string by newline and then split each song by " - "
         _playlist = playlistString.split('\n').map((song){
@@ -114,14 +114,18 @@ class _PromptScreenState extends State<PromptScreen> {
             return {'artist': parts[0].trim(), 'title': parts[1].trim()};
           } else {
             // Handle the case where song format is not as expected
-            return {'artist': 'Unknown Artist', 'title': 'Unknown Title'};
+            return {'artist': 'Unknown Artist', 'title': song.trim()};
           }
         }).toList();
+        _isLoading = false;
       });
      } else{
        ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-        content: Text('Failed to fetch paylist'),
+        content: Text('Failed to fetch playlist'),
        ));
+       setState(() {
+         _isLoading = false;
+       });
      }
   }
 
@@ -142,7 +146,7 @@ class _PromptScreenState extends State<PromptScreen> {
           // Background image
           image: DecorationImage(
             image: AssetImage( // this is called an image property for creating images
-              'assests/images/background.png'
+              'assets/images/background.png'
             ),
             fit: BoxFit.cover, 
           ), 

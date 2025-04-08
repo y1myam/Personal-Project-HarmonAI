@@ -47,7 +47,7 @@ class  HomeScreenState extends State<HomeScreen> {
                         decoration: BoxDecoration(
                           image: DecorationImage(
                             image: AssetImage(
-                              'assests/images/harmonai.png'
+                              'assets/images/harmonai.png'
                             ),
                             fit: BoxFit.cover,
                           ),
@@ -76,7 +76,7 @@ class  HomeScreenState extends State<HomeScreen> {
                                   shape: BoxShape.circle,
                                   image: DecorationImage(
                                     image: AssetImage(
-                                      'assests/images/harmonailogo.png'
+                                      'assets/images/harmonailogo.png'
                                     ),
                                     fit: BoxFit.cover,
                                   ),

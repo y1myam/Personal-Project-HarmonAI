@@ -15,13 +15,13 @@ class _RandomCirclesState extends State<RandomCircles> {
   final ValueNotifier<String?> _selectedMoodImage = ValueNotifier<String?>(null);
 
   final List<Map<String, String>> moodData = [
-    {'mood': 'Happy', 'image': 'assests/images/happy.png'},
-    {'mood': 'Heartbroken', 'image': 'assests/images/heartbroken.png'},
-    {'mood': 'Grateful', 'image': 'assests/images/grateful.png'},
-    {'mood': 'Relaxed', 'image': 'assests/images/relaxed.png'},
-    {'mood': 'Anxious', 'image': 'assests/images/anxious.png'},
-    {'mood': 'Romance', 'image': 'assests/images/romance.png'},
-    {'mood': 'Energetic', 'image': 'assests/images/energetic.png'},
+    {'mood': 'Happy', 'image': 'assets/images/happy.png'},
+    {'mood': 'Heartbroken', 'image': 'assets/images/heartbroken.png'},
+    {'mood': 'Grateful', 'image': 'assets/images/grateful.png'},
+    {'mood': 'Relaxed', 'image': 'assets/images/relaxed.png'},
+    {'mood': 'Anxious', 'image': 'assets/images/anxious.png'},
+    {'mood': 'Romance', 'image': 'assets/images/romance.png'},
+    {'mood': 'Energetic', 'image': 'assets/images/energetic.png'},
   ];
 
   @override
