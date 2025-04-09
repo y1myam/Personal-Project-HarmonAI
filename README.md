@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  # HarmonAI
+  ## HarmonAI
 </p>
 
 An application that recommends Mood/Genre based AI curated music playlists using Flutter, OpenAI, Spotify, and Audiomack!🎶🤖
