@@ -33,3 +33,5 @@ This section outlines the programs and any major frameworks or libraries that we
 - [OpenAI](https://platform.openai.com/api-keys)
 - [Spotify](https://developer.spotify.com/dashboard)
 - [Audiomack](https://audiomack.com/labtestingapi/song/easy-lab-testing-api)
+
+# Downloading Dependencies And How To Deploy Application
