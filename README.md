@@ -35,3 +35,7 @@ This section outlines the programs and any major frameworks or libraries that we
 - [Audiomack](https://audiomack.com/labtestingapi/song/easy-lab-testing-api)
 
 # How To Deploy Application
+
+## Prequisites
+  1. Open [Flutter](https://docs.flutter.dev/get-started/install) link and select your cooresponding device(ex. macOS for Apple users).
+  2. Choose your type of Application(ex. IOS for iPhone users) and follow along with the guideline to download all required dependencies.
