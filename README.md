@@ -50,8 +50,10 @@ Note: All these systems and programs are updatable/downloadable within the devic
     <img src="assets/images/envexample.png" alt="env example" width="200"/>
   </p>
   1. You will have to create your own .env file outside in the general repository for inputting your own private API key from [OpenAI](https://platform.openai.com/api-keys).
+  
   2. In the .env file you will only have one line as follows: token='apikeycode'.
-  3. 'apikeycode' will be the key you get after creating your own account on [OpenAI](https://platform.openai.com/api-keys) and recieving your secret key from the site. 
+     
+  4. 'apikeycode' will be the key you get after creating your own account on [OpenAI](https://platform.openai.com/api-keys) and recieving your secret key from the site. 
 
 # Contact
 #### Let me know if you have any inquiries. I would love to chat and help out!😁
