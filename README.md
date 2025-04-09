@@ -46,7 +46,7 @@ This section outlines the programs and any major frameworks or libraries that we
 Note: All these systems and programs are updatable/downloadable within the device itself or are mentioned throughout the [Flutter](https://docs.flutter.dev/get-started/install) guide.
 
 # Contact
-## Let me know if you have any inquiries. I would love to chat and help out!😁
+#### Let me know if you have any inquiries. I would love to chat and help out!😁
 Name: Christian Yim
 Email: christianjayyim@berkeley.edu
 
