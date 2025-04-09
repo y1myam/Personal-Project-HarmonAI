@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 48px; font-weight: bold;">HarmonAI</span>
+  <span style="font-size: 48.0; font-weight: bold;">HarmonAI</span>
 </p>
 
 <p align="center">
