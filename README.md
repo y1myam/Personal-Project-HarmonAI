@@ -15,6 +15,12 @@ the selections of the user's preferred mood and either a singular or multiple ch
 on the power of Flutter as the front-end of the application, OpenAI for chatbot recommendations, and Spotify/Audiomack 
 integration for smooth playlist integration. 
 
+Main Features:
+  1. Single-Option Mood Selection
+  2. Multiple-Option Genre Selection
+  3. Playlist Regeneration
+  4. Simple Playlist Creation and Addition 
+
 
 # Project Description
 
