@@ -26,6 +26,13 @@ Main Features:
   3. Playlist Regeneration
   4. Simple Playlist Creation and Addition
 
+# Project Programs
+This section outlines the programs and any major frameworks or libraries that were used within this project.
+- [Flutter](https://flutter.dev/)
+- [OpenAI](https://openai.com/)
+- [Spotify](https://developer.spotify.com/)
+- [Audiomack](https://www.audiomack.com/)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
