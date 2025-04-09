@@ -47,6 +47,7 @@ Note: All these systems and programs are updatable/downloadable within the devic
 
 # Contact
 #### Let me know if you have any inquiries. I would love to chat and help out!😁
-Name: Christian Yim /n
+Name: Christian Yim
+
 Email: christianjayyim@berkeley.edu
 
