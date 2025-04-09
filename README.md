@@ -1,6 +1,6 @@
 # HarmonAI
 
-A new Flutter project.
+An application that recommends Mood/Genre based AI curated music playlists using Flutter, OpenAI, Spotify, and Audiomack!🎶🤖
 
 ## Getting Started
 
