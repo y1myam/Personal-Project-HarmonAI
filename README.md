@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="assets/images/harmonailogo.png" alt="HarmonAI Logo" width="200"/>
 </p>
 
