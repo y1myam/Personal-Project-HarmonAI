@@ -10,6 +10,12 @@
 
 # Project Snippet
 
+HarmonAI is a mobile application that utilizes OpenAI's API to generate AI-curated music playlists based on 
+the selections of the user's preferred mood and either a singular or multiple chosen genre(s). The app relies
+on the power of Flutter as the front-end of the application, OpenAI for chatbot recommendations, and Spotify/Audiomack 
+integration for smooth playlist integration. 
+
+
 # Project Description
 
 
