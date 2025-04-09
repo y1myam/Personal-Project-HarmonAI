@@ -44,3 +44,9 @@ This section outlines the programs and any major frameworks or libraries that we
   4. Ensure that all systems within your device are updated, which includes Xcode(if on macOS), Xcode Simulator(if on macOS), and any system setting updates.
 
 Note: All these systems and programs are updatable/downloadable within the device itself or are mentioned throughout the [Flutter](https://docs.flutter.dev/get-started/install) guide.
+
+# Contact
+## Let me know if you have any inquiries. I would love to chat and help out!😁
+Name: Christian Yim
+Email: christianjayyim@berkeley.edu
+
