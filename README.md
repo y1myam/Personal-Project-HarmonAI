@@ -1,4 +1,4 @@
-# harmon_ai
+# HarmonAI
 
 A new Flutter project.
 
