@@ -10,7 +10,7 @@
 
 # Project Snippet
 
-[HarmonAI Banner](assets/images/harmonai_snippet.png)
+![HarmonAI Banner](assets/images/harmonai_snippet.png)
 
 
 # Project Description
