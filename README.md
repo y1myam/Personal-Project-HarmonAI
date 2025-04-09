@@ -28,10 +28,11 @@ Main Features:
 
 # Project Programs
 This section outlines the programs and any major frameworks or libraries that were used within this project.
-- [Flutter]([https://flutter.dev/](https://docs.flutter.dev/get-started/install))
-- [OpenAI]([https://openai.com/](https://platform.openai.com/api-keys))
-- [Spotify]([https://developer.spotify.com/](https://developer.spotify.com/dashboard))
-- [Audiomack]([https://www.audiomack.com/](https://audiomack.com/labtestingapi/song/easy-lab-testing-api))
+
+- [Flutter](https://docs.flutter.dev/get-started/install)
+- [OpenAI](https://platform.openai.com/api-keys)
+- [Spotify](https://developer.spotify.com/dashboard)
+- [Audiomack](https://audiomack.com/labtestingapi/song/easy-lab-testing-api)
 
 A few resources to get you started if this is your first Flutter project:
 
