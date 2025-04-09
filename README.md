@@ -46,7 +46,7 @@ This section outlines the programs and any major frameworks or libraries that we
 Note: All these systems and programs are updatable/downloadable within the device itself or are mentioned throughout the [Flutter](https://docs.flutter.dev/get-started/install) guide.
 
 ## IMPORTANT
-  1. You will have to create your own .env file for inputting your own private API key from [OpenAI](https://platform.openai.com/api-keys).
+  1. You will have to create your own .env file outside in the general repository for inputting your own private API key from [OpenAI](https://platform.openai.com/api-keys).
   2. In the .env file you will only have one line as follows: token='apikeycode'.
   3. 'apikeycode' will be the key you get after creating your own account on [OpenAI](https://platform.openai.com/api-keys) and recieving your secret key from the site. 
 
