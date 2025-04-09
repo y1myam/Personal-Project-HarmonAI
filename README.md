@@ -34,4 +34,4 @@ This section outlines the programs and any major frameworks or libraries that we
 - [Spotify](https://developer.spotify.com/dashboard)
 - [Audiomack](https://audiomack.com/labtestingapi/song/easy-lab-testing-api)
 
-# Downloading Dependencies And How To Deploy Application
+# How To Deploy Application
