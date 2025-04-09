@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/harmonailogo.png" alt="HarmonAI Logo" width="200"/>
+  <img src="assets/images/harmonailogo.png" alt="HarmonAI Logo" width="200"/>
 </p>
 
 # HarmonAI
