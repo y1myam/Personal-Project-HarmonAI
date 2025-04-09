@@ -8,7 +8,9 @@
   An application that recommends Mood/Genre based AI-curated music playlists using Flutter, OpenAI, Spotify, and Audiomack! 🎶🤖
 </p>
 
-## About This Project
+# Project Snippet
+
+# Project Description
 
 
 ![HarmonAI Banner](assets/images/harmonai_snippet.png)
