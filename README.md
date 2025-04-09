@@ -2,7 +2,9 @@
   <img src="assets/images/harmonailogo.png" alt="HarmonAI Logo" width="200"/>
 </p>
 
-# HarmonAI
+<p align="center">
+  # HarmonAI
+</p>
 
 An application that recommends Mood/Genre based AI curated music playlists using Flutter, OpenAI, Spotify, and Audiomack!🎶🤖
 
