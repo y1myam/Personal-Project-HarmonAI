@@ -12,6 +12,10 @@
 
 ![HarmonAI Banner](assets/images/harmonai_snippet.png)
 
+[Watch demo video](assets/images/harmonaiDEMO copy.mp4)
+
+
+
 
 # Project Description
 
