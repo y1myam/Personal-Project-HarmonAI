@@ -12,7 +12,7 @@
 
 ![HarmonAI Banner](assets/images/harmonai_snippet.png)
 
-[Watch demo video](assets/images/harmonaiDEMO.mp4)
+[Watch Demo Video](assets/images/harmonaiDEMO.mp4)
 (view by downloading raw video)
 
 
